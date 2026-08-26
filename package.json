@@ -1,0 +1,14 @@
+{
+  "name": "watchlistscraper",
+  "version": "1.0.0",
+  "description": "A tool for entering you and your friends' usernames to find common movies in your watchlists.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Ethan Dye",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "playwright": "^1.60.0",
+    "dotenv": "^16.3.1"
+  }
+}
